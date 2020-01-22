@@ -1,0 +1,450 @@
+<program>
+	<about>
+		<name><![CDATA[
+		Hal Higdon's Marathon Training Guide - Advanced 1
+		]]></name>
+		<url>http://www.halhigdon.com/training/51141/Marathon-Advanced-1-Training-Program</url>
+	</about>
+	<schedule>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				3 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				8K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				16K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				30' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				17K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="interval"><![CDATA[
+				4 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				10K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				13K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				4 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				10K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				21K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				11K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				35' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				11K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				22K
+			]]></day>
+		</week>
+		<week number="6">
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				11K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="interval"><![CDATA[
+				5 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				11K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				16K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				13K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				5 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				13K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				26K
+			]]></day>
+		</week>
+		<week number="8">
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				13K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				40' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				13K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				27K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				14K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="interval"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="race"><![CDATA[
+				Half Marathon
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				5K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				14K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				6 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				14K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				30K
+			]]></day>
+		</week>
+		<week number="11">
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				16K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				45' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				16K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				32K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="interval"><![CDATA[
+				7 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				10K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				20K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				7K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				16K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				7 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				16K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				32K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				45' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				20K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				16K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="interval"><![CDATA[
+				8 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				16K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				32K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				13K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				8K Run
+			]]></day>
+			<day type="hill"><![CDATA[
+				6 x Hill
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="pace"><![CDATA[
+				6K Pace
+			]]></day>
+			<day type="long"><![CDATA[
+				20K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				6K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				10K Run
+			]]></day>
+			<day type="run"><![CDATA[
+				6K Run
+			]]></day>
+			<day type="tempo"><![CDATA[
+				30' Tempo
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				6K Run
+			]]></day>
+			<day type="long"><![CDATA[
+				13K
+			]]></day>
+		</week>
+		<week>
+			<day type="run"><![CDATA[
+				4K run
+			]]></day>
+			<day type="intervals"><![CDATA[
+				4 x 400m
+			]]></day>
+			<day type="run"><![CDATA[
+				3K run
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="run"><![CDATA[
+				4K run
+			]]></day>
+			<day type="race"><![CDATA[
+				RACE DAY
+			]]></day>
+		</week>
+	</schedule>
+	<info>
+		<item name="run"><![CDATA[
+			<p>Training on Mondays and Wednesdays should be done mostly at a comparatively easy pace. These are days of semi-rest, nevertheless, as the weekend mileage builds, the weekday mileage also builds. Add up the numbers, and you'll see that you run only slightly more km during the week as you do during long runs on the weekends.</p><p>The program is built on the concept that you do more toward the end than at the start. That sounds logical, doesn't it? Believe me--as tens of thousands of marathoners using this schedule have proved--it works.</p>
+		]]></item>
+		<item name="pace"><![CDATA[
+			<p>Most of the Saturday runs are done at race pace. What do I mean by "race pace?" It's a frequently asked question on my forums, so let me explain. Race pace is the pace you plan to run in the race you're training for. If you're training for a 4:00 marathon, your average pace per km is 5:43. So you would run that same pace when asked to run race pace in this program (sometimes stated simply as "Pace").</p>
+		]]></item>
+		<item name="interval"><![CDATA[
+			<p>In training for a marathon, long repeats (800, 1600, or even longer) generally work better than short repeats (200, 400). I've prescribed 800 repeats for this program, also done every third week. Run an 800 at faster-than-marathon pace, rest by jogging and/or walking 400, then start again. Further instructions are included in the Interactive emails, but you might want to consider running these like "Yasso Repeats." Regular readers of Runner's World are familiar with what I mean. Bart Yasso is Promotions Director for the magazine. Bart suggests that you run your 800 repeats using the same numbers as your marathon time. In other words, if you run a 3-hour marathon, you do the 800s in 3 minutes. A 3:10 marathoner does 3:10 repeats; 3:20 marathoner, 3:20 repeats, etc. It seems silly, but it works. Note: Just because you can run 10 x 800 in 3:10, there is no guarantee that you can run 3:10 in the marathon. It works the other way around: If you can run a 3:10 marathon, you probably can do that workout without straining too much.</p>
+		]]></item>
+		<item name="hill"><![CDATA[
+			<p>Hill training in this program is scheduled for every third Thursday. I alternate hill training with tempo runs and interval training mainly to provide you with some variety in your training. If you want to juggle the workouts for your convenience, feel free to do so.</p><p>Even though your marathon of choice has a flat course (i.e., Chicago), hill repeats can be an important part of your training, because running hills will strengthen your quadriceps muscles. Also, there is less impact running up a hill than running fast on the flat.</p><p>If your planned marathon is on a hilly course, you might want to run more than the half dozen hill workouts I've included in the Advanced 1 schedule. Best choice would be to substitute hill repeats for some, if not all, of the interval workouts. And/or do your tempo runs over a hilly course--if one is available to you.</p><p>The speed benefits of hill training are similar to those for interval training on the track. Olympic champion Frank Shorter refers to hill training "as interval training in disguise."</p><p>Select a hill about a quarter-mile (400m) long, but don't worry about the pitch or the exact distance. Run up hard, as hard as you might during a 400 track repeat. Then turn and jog back down, repeating the uphill sprints until finished. If you plan to run a marathon with more downhill than uphill running (such as Boston), do some of your hill repeats down as well as up. This will condition your muscles to absorb the shock of downhill running. But don't overdo it, otherwise you'll increase your risk of injury. When I do hill repeats to get ready for Boston, I generally do two up to one down (2/1), but you might want to begin with 3/1 as your ratio.</p>
+		]]></item>
+		<item name="tempo"><![CDATA[
+			<p>A tempo run is a continuous run with a buildup in the middle to near 10-K race pace. Notice I said "near" 10-K race pace. Coach Jack Daniels defines the peak pace for tempo runs at the pace you might run if racing flat-out for about an hour. That's fairly fast, particularly if the tempo run is 45 minutes long, but you're only going to be near peak pace for 3-6 minutes in the middle of the run. In the Advanced 1 programs, tempo runs also are scheduled for Thursdays.</p><p>Here's how to do this workout. A tempo run of 30 to 40 minutes would begin with 10-15 minutes easy running, build to peak speed during the next 10-20 minutes, then finish with 5-10 minutes easy running. The pace buildup should be gradual, not sudden, with peak speed coming about two-thirds into the workout and only for those few minutes mentioned above.</p><p>You can do tempo runs almost anywhere: on the road, on trails or even on a track. Tempo runs should not be punishing. You should finish refreshed, which will happen if you don't push the pace too hard or too long. It helps also to pick a scenic course for your tempo runs. You can do your tempo run with another runner, but usually it works better to run solo. There's less danger of going too slow or (more the problem) too fast if you choose his pace, not yours.</p>
+		]]></item>
+		<item name="long"><![CDATA[
+			<p>The key to all my marathon programs are the long runs on weekends, which build from 16 km in the first week (Week 1) to a maximum of 32 km, done three times (Weeks 11, 13 and 15). Although some experienced runners do train longer, I see no advantage in doing 36, 42 or even 50 km runs. (I've tried that myself in the past, and it just wore me out.) Save your energy and concentrate on quality runs the rest of the week. Consistency is most important. You can skip an occasional workout, or juggle the schedule depending on other commitments, but do not cheat on the long runs.</p><p>Notice that although the weekly long runs get progressively longer, every third week is a "stepback" week, where we reduce mileage to allow you to gather strength for the next push upward. Rest is an important component of any training program.</p>
+		]]></item>
+		<item name="race"><![CDATA[
+			<p>In most of my training programs, I do not prescribe races. I don't want runners feeling that they are obligated to race on a specific weekend, and at specific distances, because that's what the schedule says. But a certain amount of racing is good, because it forces you to run at peak speed and provides feedback related to your fitness level. If you know your 10-K time, for instance, you can use one popular formula and multiply that time in minutes by 4.66 and get an estimate of your marathon potential. If you run other distances, you can use various prediction calculators to do the same. My favorite calculator is that offered on McMillanRunning.com. I suggest doing a half marathon in Week 9 to help you assess your fitness, but there is no magic to that distance or that week for racing. As an advanced runner, you should know how to make at least minor modifications to suit your schedule.</p>
+		]]></item>
+		<item name="rest"><![CDATA[
+			<p>Rest is an important component of this or any training program. Scientists will tell you that it is during the rest period (the 24 to 72 hours between hard bouts of exercise) that the muscles actually regenerate and get stronger. Coaches also instruct that you can't run hard unless you are well rested. And it's the hard running that allows you to improve.If you're constantly fatigued, you will fail to reach your potential.</p><p>This is why I designate Friday as a day of rest even for Advanced 1 runners. It allows you to gather forces for hard running on Saturdays and Sundays. If you need to take more rest days--because of a cold or a late night at the office or a sick child--do so. And if you're tired from the weekend, take Monday off as well--or cut the length of your Wednesday run.</p><p>The secret to success in any training program is consistency, so as long as you are consistent with your training during the full 18 weeks of the program, you can afford--and may benefit from--extra rest.</p>
+		]]></item>
+	</info>
+</program>

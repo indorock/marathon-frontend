@@ -1,0 +1,6 @@
+marathon:
+  build: ./buildfiles/
+  ports:
+    - 80:80
+  volumes:
+    - .:/var/www/html

@@ -1,0 +1,410 @@
+<program>
+    <about>
+        <name>Run Your BQ Advanced Low Mileage Training Plan</name>
+        <url>http://www.runyourbq.com</url>
+    </about>
+    <schedule>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>10K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: 5x1' Fartlek</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 3x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="sun"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>18K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>10K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: 5x1' Fartlek</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 3x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="sun"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>18K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>10K + 6 strides</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: 8x1' Fartlek</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 4x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>21K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>10K + 6 strides</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: 8x1' Fartlek</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 4x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>21K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 4 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>11K: 5x1' hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>16K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: km 4-8 @ tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 5x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>24K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 4 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>11K: 5x1' hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>16K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: km 4-8 @ tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 5x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>24K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>16K</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: 6x1' Fartlek</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6x8" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>26K</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>13K: 10x1' hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>17K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: km 4-9 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>29K</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>13K: 10x1' hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>17K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>11K: km 4-9 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>29K</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>13K: 10x75" hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>19K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>13K: km 5-10 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 8x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>31K</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>8K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>13K: 10x75" hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>19K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>13K: km 5-10 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 8x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>31K</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6.5K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>19K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>13K: km 5-11 @ Marathon pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>32K - last 3K @ Marathon pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>15K: 10x90" hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>21K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K: km 5-12 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 8x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>34K - last 5K @ Marathon pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 6 strides</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="tue"><![CDATA[
+			<ul><li>DS Routine</li><li>15K: 10x90" hills @ HM effort</li><li>ITB Rehab Routine</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>21K - last 2-3K uphill</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>15K: km 5-12 @ Tempo pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K + 8x10" hill sprints</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>34K - last 5K @ Marathon pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K</li><li>Strength Workout</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>16K</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>10K - last 3K @ Race pace</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>10K + 5x10" hill sprints</li><li>3x1' Standard Core</li></ul>
+		]]></day>
+            <day type="long"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K</li><li>DS Routine</li></ul>
+		]]></day>
+        </week>
+        <week>
+            <day type="mon"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>6K</li><li>Strength Workout (light)</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="wed"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>5K + 5' @ Marathon pace in the middle</li><li>ITB Rehab routine</li></ul>
+		]]></day>
+            <day type="thu"><![CDATA[
+			<ul><li>Standard Warm-up</li><li>5K</li><li>DS Routine</li></ul>
+		]]></day>
+            <day type="rest"><![CDATA[
+			<ul><li>REST</li></ul>
+		]]></day>
+            <day type="sat"><![CDATA[
+			<ul><li>DS Routine</li><li>3K + 4 slow strides</li><li>2x1' Standard Core</li></ul>
+		]]></day>
+            <day type="race"><![CDATA[
+			<ul><li>DS Routine</li><li>5-10' easy running</li><li>RACE DAY!</li></ul>
+		]]></day>
+        </week>
+    </schedule>
+    <info>
+        <item name="mon"><![CDATA[
+			<p>Strides should be an integral part of any training program, whether you're training to race a mile on the track or a marathon. The Cliff Notes version: strides are 100m accelerations that build to about 95% of your maximum speed and then you gradually slow down. One stride should take 20-30 seconds. Take 30 seconds to a full minute of walking rest in between each one.</p>
+		]]></item>
+        <item name="tue"><![CDATA[
+			<p><strong>Hill repeats:</strong> 10% at 12km/h, with 10km/h recovery<br>A: 60 seconds, with 2 minutes recovery or <br>B: 75 seconds, with 1m45 seconds recovery, or<br>C: 90 seconds, with 90 seconds recovery<br>+ 3K cooldown</p>
+		]]></item>
+        <item name="wed"><![CDATA[
+			<p><strong>Hill section:</strong> 3KM of 7% grade at 11km/h</p>
+		]]></item>
+        <item name="thu"><![CDATA[
+			<p><strong>Tempo Pace:</strong> 85-90% of your maximum heart rate, "comfortably hard" or the pace that you could hold in a 1-hour race</p>
+		]]></item>
+        <item name="fri"><![CDATA[
+			<p><strong><ul><li>REST</li></ul>.</strong> Fridays are rest days in all my programs. You need to be well rested to obtain maximum benefit from the tougher workouts on the weekends.</p>
+		]]></item>
+        <item name="sat"><![CDATA[
+			<p><strong>Hill Sprints:</strong> The first rep should be at about 95% of your maximum effort. The rest are 100% effort (i.e., you're sprinting as fast as you possibly can!)</p>
+		]]></item>
+        <item name="long"><![CDATA[
+			<p><strong>Run Long.</strong> The long run is the marathoner's most important run of the week and helps to build more specific endurance for running fast over 26.2 miles. Long runs are usually run at the same effort of a standard distance run &mdash; if you can't maintain that easy or moderate pace for the duration of your long run, then you shouldn't be running that long.</p>
+            <p>There are many types of long runs &mdash; they're not all a set distance at a set pace. Depending on the level of training plan that you select, your long run will include tempo, marathon, or even 10k pace running in the latter miles.</p>
+            <p>Running fast in the final miles of a long run provides a host of benefits and endurance adaptations that are harder to get when you're running the same pace for the entire run. Since you're already highly fatigued, you'll gain more fitness and be mentally more prepared to run fast after the 20 mile mark in your qualifying marathon.</p>
+            <p>Long runs in the RYBQ plan all build to at least 20 miles and some plans increase to 22 miles. For the more competitive runner, a 22 mile long run with marathon pace running in the final miles is a highly specific workout that will produce the right adaptations for running a BQ.</p>
+            <p>If you're going to pick any run of the week to push the pace, the long run is where you should do it.</p>
+		]]></item>
+        <item name="rest"><![CDATA[
+			<p><center><strong>Rest:</strong> Take a break from running, go do some core workout maybe.</p>
+		]]></item>
+        <item name="race"><![CDATA[
+			<p><center><strong style="font-size:25px;">RACE DAY!!</strong><br><br>Good luck out there, stay safe and finish strong!</center><br><br></p>
+		]]></item>
+
+    </info>
+</program>

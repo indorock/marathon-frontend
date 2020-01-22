@@ -1,0 +1,33 @@
+body.calendar #maincontainer{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+body.calendar #logo{
+    display:none;
+}
+
+body.calendar #training-chooser{
+    display: none;
+}
+
+#calendar-container table td.today{
+    background-color: transparent;
+}
+
+body.calendar .credits{
+    display:none;
+}
+
+body.calendar #calendar-container table th{
+}
+
+body.calendar #calendar-container table td{
+    padding-left:2px;
+    padding-bottom:1px;
+    overflow: hidden;
+}
+
+body.calendar table td.td-restday{
+    width:5%;
+}

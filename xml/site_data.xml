@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <group type="global">
+        <item name="race_name">Berlin Marathon 2018</item>
+        <item name="race_date">16 September 2018</item>
+        <item name="url">http://marathon.markmulder.net</item>
+    </group>
+
+    <group type="metadata">
+    </group>
+
+</data>
