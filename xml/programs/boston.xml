@@ -4,7 +4,7 @@
         <url>http://www.halhigdon.com/training/51230/Marathon-Boston-Bound-Training-Program</url>
     </about>
     <schedule>
-        <week>
+        <week number="1">
             <day type="mon"><![CDATA[
 			5K Run Easy
 		]]></day>
@@ -27,7 +27,7 @@
 			1h20m 3/1 Long Run
 		]]></day>
         </week>
-        <week>
+        <week number="2">
             <day type="mon"><![CDATA[
 			7K Run Easy
 		]]></day>
@@ -50,7 +50,7 @@
 			23K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="3">
             <day type="mon"><![CDATA[
 			7K Run Easy
 		]]></day>
@@ -73,7 +73,7 @@
 			1h30m 3/1 Long Run
 		]]></day>
         </week>
-        <week>
+        <week number="4">
             <day type="mon"><![CDATA[
 			7K Run Easy
 		]]></day>
@@ -96,7 +96,7 @@
 			26K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="5">
             <day type="mon"><![CDATA[
 			7K Run Easy
 		]]></day>
@@ -119,7 +119,7 @@
 			1h40m 3/1 Long Run
 		]]></day>
         </week>
-        <week>
+        <week number="6">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -142,7 +142,7 @@
 			29K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="7">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -188,7 +188,7 @@
 			32K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="9">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -211,7 +211,7 @@
 			2h00m 3/1 Long Run
 		]]></day>
         </week>
-        <week>
+        <week number="10">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -234,7 +234,7 @@
 			32K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="11">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -257,7 +257,7 @@
 			19K Run Easy
 		]]></day>
         </week>
-        <week>
+        <week number="12">
             <day type="mon"><![CDATA[
 			8K Run Easy
 		]]></day>
@@ -274,13 +274,8 @@
 			Rest
 		]]></day>
             <day type="sat"><![CDATA[
-			Rest
-		]]></day>
-            <day type="sun"><![CDATA[
 			3K Run Easy
 		]]></day>
-        </week>
-        <week>
             <day type="race"><![CDATA[
 			Race Day
 		]]></day>

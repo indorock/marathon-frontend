@@ -28,7 +28,7 @@ $alldaynodes = $xpath_query->get_nodelist('//program/schedule/week/day');
 $infonodes = $xpath_query->get_nodelist('//program/info/item');
 $total_training_weeks = $weeknodes->length;
 
-$raceday = new DateTime('2018-09-16 10:00:00');
+$raceday = new DateTime('2021-10-17 10:00:00');
 $now = new DateTime();
 $timeout = 'null';
 $left = '';
@@ -48,7 +48,8 @@ $trainingstart = new DateTime();
 $trainingstart->setTimestamp($raceday->getTimestamp() - (($alldaynodes->length-1) * 24 * 3600));
 
 
-$trainingday = $trainingstart->modify('00:00:00')->diff($now->modify('00:00:00'))->format('%a') + 1;
+$trainingday = (int)($trainingstart->modify('00:00:00')->diff($now->modify('00:00:00'))->format('%r%a') + 1);
+if($trainingday < 0) $trainingday = 0;
 
 if($secondsleft > 0){
     $daysleft = ceil(($secondsleft/(60*60*24)));
@@ -84,6 +85,7 @@ if($secondsleft > 0){
         }
     }
     $currentweek = ceil($trainingday/7);
+//echo "<br><br><br><br><br>DAY NODES:".$alldaynodes->length."<br>WEEKS: ".$weeknodes->length."<br>SECONDS TILL START:".($raceday->getTimestamp() - (($alldaynodes->length-1) * 24 * 3600))."<br>SECONDS ".$secondsleft."<br>WEEKSLEFT: ".$weeksleft."<br>DAYSLEFT ".$daysleft."<br>TRAINING START:".$trainingstart->format('Y-m-d')."<br>TRAININGDAY: ".$trainingday;
 }else{
     $left = "It's Race Day!!";
     $left_plaintext = "It's Race Day!!";

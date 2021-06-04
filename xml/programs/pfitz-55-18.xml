@@ -1,0 +1,452 @@
+<program>
+    <about>
+        <name>Pete Pftizinger's 55/18 (55 miles per week x 18 weeks) Advanced Marathoning Training Plan</name>
+        <url>https://fellrnr.com/wiki/Pfitzinger</url>
+    </about>
+    <schedule>
+        <week number="1">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="threshold"><![CDATA[
+			13K Threshold, last 6K at 15K race pace
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="aerobic"><![CDATA[
+			14K Aerobic
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="recovery"><![CDATA[
+			6K Recovery
+		]]></day>
+            <day type="medium"><![CDATA[
+			19K Medium-long run
+		]]></day>
+        </week>
+        <week number="2">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="aerobic"><![CDATA[
+			13K Aerobic + 10 x 100m strides
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="aerobic"><![CDATA[
+			16K Aerobic
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="recovery"><![CDATA[
+			8K Recovery
+		]]></day>
+            <day type="mp"><![CDATA[
+			21K Long run, last 13K at MP
+		]]></day>
+        </week>
+        <week number="3">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="aerobic"><![CDATA[
+			16K Aerobic
+		]]></day>
+            <day type="recovery"><![CDATA[
+			6K Recovery
+		]]></day>
+            <day type="threshold"><![CDATA[
+			13K Threshold, last 6K at 15K race pace
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="recovery"><![CDATA[
+			6K Recovery
+		]]></day>
+            <day type="medium"><![CDATA[
+			23K Medium-long run
+		]]></day>
+        </week>
+        <week number="4">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			5 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Tempo
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			11K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			26K Run Easy
+		]]></day>
+        </week>
+        <week number="5">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			5 x hill, 2 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Tempo
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			5K RACE
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h40m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="6">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			6 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			13K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			29K Run Easy
+		]]></day>
+        </week>
+        <week number="7">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			6 x hill, 2 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Tempo
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			10K RACE
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h50m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="8">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			7 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="threshold"><![CDATA[
+			16K Threshold, last 10K at MP
+		]]></day>
+            <day type="sat"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="sun"><![CDATA[
+			32K Run Easy
+		]]></day>
+        </week>
+        <week number="9">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			7 x hill, 3 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			Half Marathon
+		]]></day>
+            <day type="sun"><![CDATA[
+			2h00m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="10">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			8 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="sat"><![CDATA[
+			8K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			32K Run Easy
+		]]></day>
+        </week>
+        <week number="11">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			8 x hill, 3 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			10K Run Tempo
+		]]></day>
+            <day type="medium"><![CDATA[
+			19K Medium-long run
+		]]></day>
+            <day type="sat"><![CDATA[
+			4K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			19K Run Easy
+		]]></day>
+        </week>
+        <week number="12">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="recovery"><![CDATA[
+			8K Recovery + 6 x 100m strides
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="13">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="medium"><![CDATA[
+			19K Medium-long run
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="14">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="recovery"><![CDATA[
+			6K Recovery + 6 x 100m strides
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="15">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="medium"><![CDATA[
+			18K Medium-long run
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="16">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="17">
+            <day type="rest"><![CDATA[
+			Rest or cross-training
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+        <week number="18">
+            <day type="rest"><![CDATA[
+			Rest
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+    </schedule>
+    <info>
+        <item name="vo2max"><![CDATA[
+			<p>Run at your current 5K race pace, about 94% of your max heart rate.</p>
+		]]></item>
+        <item name="threshold"><![CDATA[
+			<p>Run close to your 15K race pace, about 85% of your max heart rate.</p>
+		]]></item>
+        <item name="aerobic"><![CDATA[
+			<p>Slower than threshold runs, faster than recovery runs, about 25% slower than marathon race pace, or 75% of your max heart rate.</p>
+		]]></item>
+        <item name="medium"><![CDATA[
+			<p>The pace should be somewhat similar to long run, 20% slower than marathon pace, 74% of max heart rate. Avoid the temptation of going too hard.</p>
+		]]></item>
+        <item name="long"><![CDATA[
+			<p>Run at 10-20% slower than marathon race pace, around 78% of your max heart rate.</p>
+		]]></item>
+        <item name="recovery"><![CDATA[
+			<p>Not necessarily jogs, but should feel like you're storing up energy rather than leaking it. You should finish refreshed.</p>
+		]]></item>
+        <item name="speed"><![CDATA[
+			<p>Short repetitions of 50-150 meters, with 100-200m jogging recoveries.</p>
+		]]></item>
+        <item name="mp"><![CDATA[
+			<p>Start comfortably, finish the run at race pace.</p>
+		]]></item>
+        <item name="race"><![CDATA[
+			<p><center><strong style="font-size:25px;">RACE DAY!!</strong><br><br>Good luck out there, stay safe and finish strong!</center><br><br></p>
+		]]></item>
+
+    </info>
+</program>

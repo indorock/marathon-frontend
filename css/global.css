@@ -45,13 +45,14 @@ body{
 
 #logo{
 	position: absolute;
-	top: 0px;
+	top: 20px;
 	left: 20px;
+	text-align:center;
+	font-size:18px;
 }
 #logo img{
 	width: 220px;
 }
-
 #training-chooser{
 	position:absolute;
 	top:30px;
@@ -81,7 +82,7 @@ h1{
 	font-size: 45px;
 	letter-spacing: 1px;
 	margin-top: 5px;
-	color: #0a519d;
+	color: #283583;
 }
 
 

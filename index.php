@@ -41,7 +41,11 @@ require('lib/countdown.php');
 		</select>
 		<a href="./calendar.php">Calendar View</a>
 	</div>
-	<div id="logo"><img src="/images/logo_<?php get_race_name_safe() ?>.png" /></div>
+	<div id="logo">
+		<img src="/images/logo_<?php get_race_name_safe() ?>.png" /><br>
+		Raceday:<br><strong><?php echo $raceday->format('d M, Y') ?></strong>
+	</div>
+
 	<div id="clock">
 		<span class="tminus">T-Minus</span>
 		<h1 id="counter"><?php echo $left ?></h1>
@@ -125,7 +129,7 @@ foreach($weeknodes as $week) {
 <?php
 }else{
 ?>
-<div class="training clearfix"><div id="schedule">Training hasn't started yet!<br>Just another <strong><?php echo $daysleft-($total_training_weeks*7) ?> days left</strong> until training starts...</div></div>
+<div id="schedule">Training hasn't started yet!<br>Just another <strong><?php echo $daysleft-$alldaynodes->length+1 ?> days left</strong> until training starts...</div>
 <?php
 }
 ?>
