@@ -1,0 +1,311 @@
+<program>
+    <about>
+        <name>Peter Pfitzinger's Multiple Marathons (8-week schedule) Training Guide</name>
+        <url>http://www.halhigdon.com/training/51230/Marathon-Boston-Bound-Training-Program</url>
+    </about>
+    <schedule>
+        <week number="1">
+            <day type="mon"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			3 x hill, 1 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			10K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h20m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="2">
+            <day type="mon"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			11K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			11K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			23K Run Easy
+		]]></day>
+        </week>
+        <week number="3">
+            <day type="mon"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x hill, 1 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			11K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			11K Easy
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h30m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="4">
+            <day type="mon"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			5 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			11K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			26K Run Easy
+		]]></day>
+        </week>
+        <week number="5">
+            <day type="mon"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			5 x hill, 2 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			5K RACE
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h40m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="6">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			6 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			13K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			29K Run Easy
+		]]></day>
+        </week>
+        <week number="7">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			6 x hill, 2 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			10K RACE
+		]]></day>
+            <day type="sun"><![CDATA[
+			1h50m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="8">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			7 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="sun"><![CDATA[
+			32K Run Easy
+		]]></day>
+        </week>
+        <week number="9">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			7 x hill, 3 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			Half Marathon
+		]]></day>
+            <day type="sun"><![CDATA[
+			2h00m 3/1 Long Run
+		]]></day>
+        </week>
+        <week number="10">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			8 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			13K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			8K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			32K Run Easy
+		]]></day>
+        </week>
+        <week number="11">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			8 x hill, 3 down
+		]]></day>
+            <day type="wed"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			10K Run Tempo
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			4K Pace
+		]]></day>
+            <day type="sun"><![CDATA[
+			19K Run Easy
+		]]></day>
+        </week>
+        <week number="12">
+            <day type="mon"><![CDATA[
+			8K Run Easy
+		]]></day>
+            <day type="tue"><![CDATA[
+			4 x 800, 400 jog
+		]]></day>
+            <day type="wed"><![CDATA[
+			5K Run Easy
+		]]></day>
+            <day type="thu"><![CDATA[
+			7K Run Easy
+		]]></day>
+            <day type="fri"><![CDATA[
+			Rest
+		]]></day>
+            <day type="sat"><![CDATA[
+			3K Run Easy
+		]]></day>
+            <day type="race"><![CDATA[
+			Race Day
+		]]></day>
+        </week>
+    </schedule>
+    <info>
+        <item name="mon"><![CDATA[
+			<p><strong>Run Easy.</strong> In my Boston Bound Training Program, Mondays are easy days with short runs that begin at 3 miles in the first week, then move upward to 4 and 5 miles. The main purpose of the workout is to do some easy miles while recovering from one hard workout and getting ready for another one. If you have access to a fitness center, you might want to do this workout on a treadmill, then do some strength training afterwards. Run between 65 to 75 percent of your maximum heart rate.</p>
+		]]></item>
+        <item name="tue"><![CDATA[
+			<p><strong>Run Fast.</strong> On alternate Tuesdays, run either fast 800 repeats at the track (Yasso Repeats) or hill repeats on a hill that could be almost any length between 200 and 800 meters, as long as running up it pushes you into the 80 to 90 percent maximum zone. Because Boston is a downhill course, run every third repeat downhill to strengthen your legs for the pounding they will get in the marathon.</p>
+		]]></item>
+        <item name="wed"><![CDATA[
+			<p><strong>Run Easy.</strong> Similar to Monday, do a short and easy run today, coupling this run (outdoors or indoors) with some stretching and strength training. Stay in the 65 to 75 percent comfort zone.</p>
+		]]></item>
+        <item name="thu"><![CDATA[
+			<p><strong>Run Fast.</strong> Weather permitting, you will do a Tempo Run on most days. I define a Tempo Run as one where you start easy at a jogging warm-up pace (60 to 70 percent of your maximum heart rate), then after a mile or two, begin to gradually accelerate to just slower than your 10-K pace (between 80 and 90 percent of your maximum heart rate). Then, after holding that fast pace for 3 to 5 minutes, gradually decelerate and finish the run at the same jogging pace at which you started. While I suggest Thursdays for Tempo Runs, be aware of weather conditions. Feel free to shift your Tempo Run--or any other prescribed workout--to the day of the week most convenient for you.</p>
+		]]></item>
+        <item name="fri"><![CDATA[
+			<p><strong>Rest.</strong> Fridays are rest days in all my programs. You need to be well rested to obtain maximum benefit from the tougher workouts on the weekends.</p>
+		]]></item>
+        <item name="sat"><![CDATA[
+			<p><strong>Pace Training.</strong> Saturday runs vary from 8 to 4 miles with about half of them done at marathon pace. I say this despite the fact that it may be very difficult to achieve your normal marathon pace in bad weather while wearing heavy clothes and with snow and ice on the pavement. So you do the best you can, knowing that as Boston approaches the weather should warm allowing you to hit the pace you want. Two possibilities are to do your pace runs indoors on a treadmill and/or wear a heart rate monitor to measure how hard you are working. I would shoot for 75 to 80 percent of your maximum heart rate. Please note in the schedule below that I suggest doing several test races to measure your fitness level and provide motivation. I suggest a 5-K, a 10-K and/or a Half Marathon. If you can't find races at those distances on the days I suggest, adjust your schedule accordingly.</p>
+		]]></item>
+        <item name="sun"><![CDATA[
+			<p><strong>Run Long.</strong> Because winter weather conditions can impact your ability to run certain distances, every other Sunday the long run prescription is in minutes rather than miles. This recognizes the fact that 14 miles in difficult weather can be the Moral Equivalent of 16 or 18 miles in perfect conditions. When the prescription is in minutes, you don't need to worry about distance. Just run your best effort. I don't care how far or fast you run in your allotted time; I simply want you out running. Even runners with access to a treadmill in a gym probably need to get outdoors at least once a week to run long. Stay in the 65 to 75 percent comfort zone. For the time-based runs, I suggest doing them as a 3/1 run, where the first 3/4 of the run is done at an easy pace, picking up the pace in the last 1/4 of the distance. Your goal at Boston also should be to finish faster, or as fast, as your started. Time-based training aside, miles do have their place in any training program, so every other Sunday I suggest you do run specific distances. If you would rather do your long runs on Saturday rather than Sunday, feel free to modify the program. In fact, weather conditions on any one day may force changes in your planned program. The best two words of advice I can offer are: Stay Flexible!</p>
+		]]></item>
+        <item name="race"><![CDATA[
+			<p><center><strong style="font-size:25px;">RACE DAY!!</strong><br><br>Good luck out there, stay safe and finish strong!</center><br><br></p>
+		]]></item>
+
+    </info>
+</program>

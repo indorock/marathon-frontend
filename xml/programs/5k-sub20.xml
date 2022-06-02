@@ -1,0 +1,347 @@
+<program>
+	<about>
+		<name><![CDATA[
+		SUB 20 5K TRAINING PLAN from https://runningfastr.com
+		]]></name>
+		<url>https://www.runningfastr.com/5k-training-plan/sub-20-5k-training-plan/</url>
+	</about>
+	<schedule>
+		<week num="1">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/Cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long run
+			]]></day>
+		</week>
+		<week num="2">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-400"><![CDATA[
+				10 x 400m
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="hills"><![CDATA[
+				Hills
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="repeat-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="3">
+			<day type="hills"><![CDATA[
+				Hill Sprints
+			]]></day>
+			<day type="repeat-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="fartlek"><![CDATA[
+				Fartlek
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="4">
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="tempo"><![CDATA[
+				Tempo run (including 3min @ 4:10/km pace)
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+		</week>
+		<week num="5">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/Cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long run
+			]]></day>
+		</week>
+		<week num="6">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-400"><![CDATA[
+				10 x 400m
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="hills"><![CDATA[
+				Hills
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="repeat-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="7">
+			<day type="hills"><![CDATA[
+				Hill Sprints
+			]]></day>
+			<day type="repeat-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="fartlek"><![CDATA[
+				Fartlek
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="8">
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="tempo"><![CDATA[
+				Tempo run (including 3min @ 4:10/km pace)
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+		</week>
+    		<week num="9">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/Cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long run
+			]]></day>
+		</week>
+		<week num="10">
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="repeats-400"><![CDATA[
+				10 x 400m
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="hills"><![CDATA[
+				Hills
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest
+			]]></day>
+			<day type="repeat-800"><![CDATA[
+				6 x 800m
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="11">
+			<day type="hills"><![CDATA[
+				Hill Sprints
+			]]></day>
+			<day type="repeat-1000"><![CDATA[
+				5 x 1K
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="fartlek"><![CDATA[
+				Fartlek
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="long"><![CDATA[
+				Long Run
+			]]></day>
+		</week>
+		<week num="12">
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="tempo"><![CDATA[
+				Tempo run (including 3min @ 4:10/km pace)
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="run"><![CDATA[
+				30min easy
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+			<day type="rest"><![CDATA[
+				Rest/cross-train
+			]]></day>
+		</week>
+    </schedule>
+	<info>
+		<item name="run"><![CDATA[
+			<p>This should be no quicker than 4:20/km, ideally aim for something in the region of 4:30-4:40/km.</p>
+		]]></item>
+		<item name="repeats-400"><![CDATA[
+            400m Reps – these need to be at 3:54/km pace (93s per lap) with a 60sec standing recovery.
+        ]]></item>
+		<item name="repeats-800"><![CDATA[
+            800m Reps – should be reps at 4:00/km pace (3:12 per 800m) with a 200m jogged recovery.
+		]]></item>
+		<item name="repeats-1000"><![CDATA[
+            1km Intervals – hit 4:00/km) with a 90sec jogged recovery.
+		]]></item>
+		<item name="hills"><![CDATA[
+		    <p>Hills: Kenyans/ Hill Sprints – alternate between Kenyans and Hill Sprints to get a balance of power and endurance training.</p>
+		    <h3>Hill sprints</h3>
+		    <p>3 sets of 5 reps: 24-45 second sprints up 20% incline, jogging down at half speed. 2-3 minutes recovery in between sets.</p>
+		    <h3>Kenyans</h3>
+		    <ul>
+		    <li>>Run at a solid steady pace.</li>
+		    <li>>Turn immediately at the top and run down the hill with a long relaxed stride, then turn and repeat without resting.</li>
+		    <li>>Continue for ten minutes trying to keep as consistent a pace as possible for the uphill and downhill parts.</li>
+            <li>>After ten minutes rest for 3 minutes or until you are completely rested.</li>
+            </ul>
+		]]></item>
+		<item name="tempo"><![CDATA[
+			<p>A tempo run is a continuous run with a buildup in the middle to near 10-K race pace. Notice I said "near" 10-K race pace. Coach Jack Daniels defines the peak pace for tempo runs at the pace you might run if racing flat-out for about an hour. That's fairly fast, particularly if the tempo run is 45 minutes long, but you're only going to be near peak pace for 3-6 minutes in the middle of the run. In the Advanced 1 programs, tempo runs also are scheduled for Thursdays.</p><p>Here's how to do this workout. A tempo run of 30 to 40 minutes would begin with 10-15 minutes easy running, build to peak speed during the next 10-20 minutes, then finish with 5-10 minutes easy running. The pace buildup should be gradual, not sudden, with peak speed coming about two-thirds into the workout and only for those few minutes mentioned above.</p><p>You can do tempo runs almost anywhere: on the road, on trails or even on a track. Tempo runs should not be punishing. You should finish refreshed, which will happen if you don't push the pace too hard or too long. It helps also to pick a scenic course for your tempo runs. You can do your tempo run with another runner, but usually it works better to run solo. There's less danger of going too slow or (more the problem) too fast if you choose his pace, not yours.</p>
+		]]></item>
+		<item name="fartlek"><![CDATA[
+			<h2>Examples</h2>
+			<h3>TRAFFIC LIGHT FARTLEK TRAINING</h3>
+            <p>Run 30 seconds hard – 90 seconds easy – 60 seconds moderate – 60 seconds easy – 90 seconds hard – 30 seconds easy. Repeat 4 times.</p>
+
+            <h3>THE STREET LIGHT/ LAMP POST RUN</h3>
+            <p>For those who don’t have a watch or just want to try something a bit wacky, try the lamp post run where you can mix it up running hard, moderately and slowly between sets of lamp-posts. Substitute lamp posts for trees if you live near a park./p>
+
+            <h3>HERO TO ZERO</h3>
+            <p>From zero to five minutes, run at a comfortable, normal pace. At the five-minute mark, increase your speed for one minute. Drop back to your normal speed until you hit the 10 minute mark. Repeat your hero bursts on the 10, 15, 20, and 25 minute markers./p>
+
+            <h3>WATSON FARTLEK TRAINING</h3>
+            <p>Stride hard for 4 minutes with 1 minute jog recovery – repeat x 8/p>
+
+            <h3>SALTIN FARTLEK TRAINING</h3>
+            <p>Stride hard for 3 minutes with 1 minute jog run recovery. Repeat x 6/p>
+
+            <h3>ASTRAND FARTLEK TRAINING</h3>
+            <p>Max effort for 75 seconds, 150 secs jog run, max effort for 60 seconds, 120 seconds jog run. Repeat x 3/p>
+
+            <h3>GERSCHLER FARTLEK TRAINING</h3>
+            <p>Stride hard for 30 seconds, jog 90 seconds. repeat with 15 second decreases in recovery jog e.g. 30-90, 30-75, 30-60, 30-45, 30-30, 30-15 and 30-15-30. Repeat x 3</p>
+		]]></item>
+		<item name="long"><![CDATA[
+			<p>The key to all my marathon programs are the long runs on weekends, which build from 16 km in the first week (Week 1) to a maximum of 32 km, done three times (Weeks 11, 13 and 15). Although some experienced runners do train longer, I see no advantage in doing 36, 42 or even 50 km runs. (I've tried that myself in the past, and it just wore me out.) Save your energy and concentrate on quality runs the rest of the week. Consistency is most important. You can skip an occasional workout, or juggle the schedule depending on other commitments, but do not cheat on the long runs.</p><p>Notice that although the weekly long runs get progressively longer, every third week is a "stepback" week, where we reduce mileage to allow you to gather strength for the next push upward. Rest is an important component of any training program.</p>
+		]]></item>
+		<item name="race"><![CDATA[
+			<p>In most of my training programs, I do not prescribe races. I don't want runners feeling that they are obligated to race on a specific weekend, and at specific distances, because that's what the schedule says. But a certain amount of racing is good, because it forces you to run at peak speed and provides feedback related to your fitness level. If you know your 10-K time, for instance, you can use one popular formula and multiply that time in minutes by 4.66 and get an estimate of your marathon potential. If you run other distances, you can use various prediction calculators to do the same. My favorite calculator is that offered on McMillanRunning.com. I suggest doing a half marathon in Week 9 to help you assess your fitness, but there is no magic to that distance or that week for racing. As an advanced runner, you should know how to make at least minor modifications to suit your schedule.</p>
+		]]></item>
+		<item name="rest"><![CDATA[
+			<p>Rest is an important component of this or any training program. Scientists will tell you that it is during the rest period (the 24 to 72 hours between hard bouts of exercise) that the muscles actually regenerate and get stronger. Coaches also instruct that you can't run hard unless you are well rested. And it's the hard running that allows you to improve.If you're constantly fatigued, you will fail to reach your potential.</p>
+		]]></item>
+	</info>
+</program>
