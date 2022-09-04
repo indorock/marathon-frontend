@@ -23,7 +23,7 @@ $base_path = substr($_SERVER['SCRIPT_FILENAME'], 0, strpos($_SERVER['SCRIPT_FILE
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/global.js"></script>
 
-    <link href='http://fonts.googleapis.com/css?family=Bowlby+One+SC|Oxygen:400,300|Courgette' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Bowlby+One+SC|Oxygen:400,300|Courgette' rel='stylesheet' type='text/css'>
     <link type="text/css" rel="stylesheet" href="/css/global.css?<?php echo hash_file('md5', $base_path.'/css/global.css') ?>" />
     <link type="text/css" rel="stylesheet" media="print" href="/css/print.css" />
 

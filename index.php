@@ -21,7 +21,7 @@ $now = new DateTime();
 	<meta property="og:image" content="<?php get_site_url() ?>/images/logo_<?php get_race_name_safe() ?>_fb.png"/>
 	<meta property="og:description" content="My countdown and training program in preparation for <?php get_race_name() ?>, <?php get_race_date() ?>"/>
 
-	<link href='http://fonts.googleapis.com/css?family=Bowlby+One+SC|Oxygen:400,300|Courgette' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Bowlby+One+SC|Oxygen:400,300|Courgette' rel='stylesheet' type='text/css'>
 	<link type="text/css" rel="stylesheet" href="/css/global.css" />
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script type="text/javascript">var timeout = <?php echo $countdown->timeout ?>;</script>
