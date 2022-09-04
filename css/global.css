@@ -51,7 +51,7 @@ body{
 	font-size:18px;
 }
 #logo img{
-	width: 300px;
+	width: 200px;
 }
 #training-chooser{
 	position:absolute;
@@ -157,17 +157,20 @@ h2{
 	width:100%;
 }
 
-.trainingday{
+
+#training-wrapper .trainingday{
 	margin: 0px auto;
-	width: 420px;
+	width: 500px;
 	text-align: left;
 	padding:10px 0;
 	border-top: 1px solid #cccccc;
+	display: grid;
+	grid-template-columns: 80px auto;
+	column-gap: 20px;
 }
 
-.trainingday .dayname{
+#training-wrapper .trainingday .dayname{
 	display: block;
-    float: left;
     width: 60px;
     text-align: right;
     padding-left: 20px;
@@ -176,31 +179,30 @@ h2{
 	color: #aaa;
 }
 
-.trainingday .activity{
+#training-wrapper .trainingday .activity{
     display: block;
-    float: left;
 	cursor: help;
     padding-right: 20px;
 }
 
-.trainingday .activity ul{
+#training-wrapper .trainingday .activity ul{
 	margin:0;
 	padding-left:0;
 }
-.trainingday .activity ul li{
+#training-wrapper .trainingday .activity ul li{
 	list-style: none;
 }
 
-.trainingday.race{
+#training-wrapper .trainingday.race{
     color: #6666ff;
     font-weight: bold;
 }
 
-.trainingday .activity:hover, .trainingday .activity.active{
+#training-wrapper .trainingday .activity:hover, #training-wrapper .trainingday .activity.active{
 	color: #22aaff;
 }
 
-.trainingday.today{
+#training-wrapper .trainingday.today{
     border-left: 10px solid #22aaff;
     border-right: 10px solid #22aaff;
 }
@@ -210,6 +212,7 @@ h2{
 	padding-top:20px;
 	margin-top:0;
 	text-align: center;
+	display: block ! important;
 }
 
 #infotexts_viewport{
@@ -263,7 +266,7 @@ body.calendar #logo{
 }
 
 body.calendar #logo img{
-	width: 150px;
+	width: 100px;
 }
 
 

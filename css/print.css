@@ -1,11 +1,13 @@
 body.calendar #maincontainer{
-    margin-top:0px;
+    margin-top:auto;
     margin-bottom:0px;
 }
 
-body.calendar #logo{
-    display:none;
+body.calendar #logo img{
+	height: 35pt;
+	width:auto;
 }
+
 
 body.calendar #training-chooser{
     display: none;

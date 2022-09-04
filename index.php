@@ -45,12 +45,12 @@ $now = new DateTime();
 	</div>
 	<div id="logo">
 		<img src="/images/logo_<?php get_race_name_safe() ?>.png" /><br>
-		Raceday:<br><strong><?php echo $countdown->raceday->format('d M, Y') ?></strong>
 	</div>
 
 	<div id="clock">
 		<span class="tminus">T-Minus</span>
 		<h1 id="counter"><?php echo $countdown->left ?></h1>
+        Raceday:<br><strong><?php echo $countdown->raceday->format('d M, Y') ?></strong>
 	</div>
 <?php
 if($countdown->currentweek){
@@ -95,7 +95,7 @@ foreach($countdown->weeknodes as $week) {
 					if ($weeknumber == $countdown->currentweek && strtolower($now->format('D')) == strtolower($dayname))
 						$todayclass = ' today';
 ?>
-								<div class="trainingday clearfix <?php echo $activitytype ?><?php echo $todayclass ?>">
+								<div class="trainingday <?php echo $activitytype ?><?php echo $todayclass ?>">
 									<span class="dayname"><?php echo $dayname; ?></span>
 									<span class="activity" rel="<?php echo $activitytype ?>"><?php echo $activity ?></span>
 								</div>
