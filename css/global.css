@@ -159,15 +159,17 @@ h2{
 
 .trainingday{
 	margin: 0px auto;
-	width: 420px;
+	width: 500px;
 	text-align: left;
 	padding:10px 0;
 	border-top: 1px solid #cccccc;
+	display: grid;
+	grid-template-columns: 80px auto;
+	column-gap: 20px;
 }
 
 .trainingday .dayname{
 	display: block;
-    float: left;
     width: 60px;
     text-align: right;
     padding-left: 20px;
@@ -178,7 +180,6 @@ h2{
 
 .trainingday .activity{
     display: block;
-    float: left;
 	cursor: help;
     padding-right: 20px;
 }
@@ -210,6 +211,7 @@ h2{
 	padding-top:20px;
 	margin-top:0;
 	text-align: center;
+	display: block;
 }
 
 #infotexts_viewport{

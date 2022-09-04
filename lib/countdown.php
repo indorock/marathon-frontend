@@ -4,7 +4,7 @@ class Countdown {
     public $currentweek = 1;
     public $total_training_weeks = 16;
     public $training_plans = [];
-    public $training_type = 'runyourbq-16';
+    public $training_type = 'pfitz-55-18';
     public $trainingstart = null;
     public $raceday = null;
     public $daysleft = 0;
@@ -15,7 +15,8 @@ class Countdown {
     public $alldaynodes = [];
     public $schedule_rootnode = null;
     public $weekstarts = 'mon';
-    public $xpath_query = null;
+    public $xpath_program = null;
+    public $xpath_sitedata = null;
     public $now = null;
 
     public function __construct(){
@@ -36,22 +37,22 @@ class Countdown {
         }
 
 
-        $this->xpath_query = new XPath_Query('xml/programs/'.$this->training_type.'.xml');
-        $this->infonodes = $this->xpath_query->get_nodelist('//program/info/item');
-        $this->schedule_rootnode = $this->xpath_query->get_node('//program/schedule');
-        $this->weeknodes = $this->xpath_query->get_nodelist('//program/schedule/week');
-        $this->alldaynodes = $this->xpath_query->get_nodelist('//program/schedule/week/day');
-        $this->infonodes = $this->xpath_query->get_nodelist('//program/info/item');
-        $total_training_weeks = $this->weeknodes->length;
-
-        $this->raceday = new DateTime('2022-11-06 9:00:00');
+        $this->xpath_program = new XPath_Query('xml/programs/'.$this->training_type.'.xml');
+        $this->xpath_sitedata = new XPath_Query('xml/site_data.xml');
+        $this->infonodes = $this->xpath_program->get_nodelist('//program/info/item');
+        $this->schedule_rootnode = $this->xpath_program->get_node('//program/schedule');
+        $this->weeknodes = $this->xpath_program->get_nodelist('//program/schedule/week');
+        $this->alldaynodes = $this->xpath_program->get_nodelist('//program/schedule/week/day');
+        $this->infonodes = $this->xpath_program->get_nodelist('//program/info/item');
+        $this->total_training_weeks = $this->weeknodes->length;
+        $this->raceday = new DateTime(get_race_datetime(false));
         $this->now = new DateTime();
         $this->weeks = 0;
         $tminus = 'T-Minus ';
         $this->daynodes = null;
 
 
-        $weekstarts = $this->xpath_query->get_node('//program/about')->getAttribute('weekstarts');
+        $weekstarts = $this->xpath_program->get_node('//program/about')->getAttribute('weekstarts');
         if($weekstarts)
             $this->weekstarts = $weekstarts;
 

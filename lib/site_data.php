@@ -47,8 +47,14 @@ function get_race_name_safe($echo = true){
     if($echo) echo $ret; else return $ret;
 }
 
+function get_race_datetime($echo = true){
+    return get_data_item('race_datetime', null, 'global', $echo);
+}
+
 function get_race_date($echo = true){
-    return get_data_item('race_date', null, 'global', $echo);
+    $datetime = new DateTime(get_race_datetime(false));
+    $ret = $datetime->format('d M, Y');
+    if($echo) echo $ret; else return $ret;
 }
 
 function get_site_url($echo = true){
@@ -86,7 +92,7 @@ function get_content($name, $echo = true, $s = null){
     return get_data_item($name, $s, 'content', $echo);
 }
 
-function get_data_item($name, $section = null, $type, $echo = true, $trans_func=null){
+function get_data_item($name, $section, $type, $echo = true, $trans_func=null){
     global $sitedata;
     if(array_key_exists($section, $sitedata[$type]))
         $out = trim(@$sitedata[$type][$section][$name]);

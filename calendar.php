@@ -71,7 +71,7 @@ $base_path = substr($_SERVER['SCRIPT_FILENAME'], 0, strpos($_SERVER['SCRIPT_FILE
                     $weekend = clone $weekbegin;
                     $weekend->modify('+6 days');
                     $daynumber = 0;
-                    $daynodes = $countdown->xpath_query->get_nodelist('day', $week);
+                    $daynodes = $countdown->xpath_program->get_nodelist('day', $week);
                     $weekly_distance = 0;
 
                     if ($daynodes && $daynodes->length) {
