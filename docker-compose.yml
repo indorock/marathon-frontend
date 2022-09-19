@@ -1,16 +1,9 @@
-#frontend:
-#  build: ./buildfiles/frontend/
-#  volumes:
-#    - .:/var/www
-#  environment:
-#    NODE_ENV: dev
-#
-apache:
-  build: ./buildfiles/apache/
-  ports:
-    - 8080:80
-  volumes:
-    - .:/var/www
-#  links:
-#    - frontend
+version: '3.6'
 
+services:
+  frontend:
+    build: ./buildfiles/frontend/
+    ports:
+      - 8181:80
+    volumes:
+      - .:/var/www/html
