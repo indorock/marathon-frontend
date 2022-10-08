@@ -94,10 +94,14 @@ function get_content($name, $echo = true, $s = null){
 
 function get_data_item($name, $section, $type, $echo = true, $trans_func=null){
     global $sitedata;
-    if(array_key_exists($section, $sitedata[$type]))
-        $out = trim(@$sitedata[$type][$section][$name]);
-    else
-        $out = trim(@$sitedata[$type][$name]);
+    $out = '';
+    if($sitedata[$type]){
+        if(array_key_exists($section, $sitedata[$type])) {
+            $out = trim(@$sitedata[$type][$section][$name]);
+        }elseif(array_key_exists($name, $sitedata[$type])) {
+            $out = trim($sitedata[$type][$name]);
+        }
+    }
     if($trans_func)
         $out = call_user_func($trans_func, $out);
     if($echo) echo ($out);

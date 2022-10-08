@@ -2,8 +2,8 @@
 <data>
 
     <group type="global">
-        <item name="race_name">2022 London Marathon</item>
-        <item name="race_datetime">2022-10-02 9:00:00</item>
+        <item name="race_name">2022 New York City Marathon</item>
+        <item name="race_datetime">2022-11-06 9:00:00</item>
         <item name="url">http://marathon.markmulder.net</item>
     </group>
 

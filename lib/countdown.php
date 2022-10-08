@@ -103,7 +103,7 @@ class Countdown {
         }else{
             $this->left = "It's Race Day!!";
             $this->left_plaintext = "It's Race Day!!";
-            $this->currentweek = $total_training_weeks;
+            $this->currentweek = $this->total_training_weeks;
         }
     }
 }
