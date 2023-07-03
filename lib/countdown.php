@@ -36,7 +36,6 @@ class Countdown {
             $this->training_type = $_COOKIE['training_plan'];
         }
 
-
         $this->xpath_program = new XPath_Query('xml/programs/'.$this->training_type.'.xml');
         $this->xpath_sitedata = new XPath_Query('xml/site_data.xml');
         $this->infonodes = $this->xpath_program->get_nodelist('//program/info/item');
@@ -48,7 +47,7 @@ class Countdown {
 
 
         $formatter = new IntlDateFormatter("it_IT", IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
-        $unixtime=$formatter->parse(get_race_datetime(false));
+        $unixtime = $formatter->parse(get_race_datetime(false));
         $this->raceday = new DateTime();
         $this->raceday->setTimestamp($unixtime);
         $this->now = new DateTime();

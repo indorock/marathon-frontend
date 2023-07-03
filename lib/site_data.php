@@ -48,9 +48,17 @@ function get_race_name_safe($echo = true){
 }
 
 function get_race_datetime($echo = true){
-    if(array_key_exists('raceday', $_GET)){
-        return $_GET['raceday'];
+    $date_regex  = '/^(0?[1-9]|[12][0-9]|3[01])[\-\/](0[1-9]|1[012])[\-\/](20)\d\d$/';
+    if(array_key_exists('raceday', $_GET)) {
+        $req_raceday = @strtolower(urldecode($_GET['raceday']));
+        if($req_raceday && preg_match($date_regex, $req_raceday)) {
+            setcookie('raceday', $req_raceday, time()+(86400*30), "/");
+            return $req_raceday;
+        }
+    }elseif(isset($_COOKIE['raceday']) && preg_match($date_regex, $_COOKIE['raceday'])){
+        return urldecode($_COOKIE['raceday']);
     }
+
     return get_data_item('race_datetime', null, 'global', $echo);
 }
 
