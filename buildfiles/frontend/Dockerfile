@@ -5,6 +5,10 @@ RUN apt update && apt install mc git -y
 RUN a2enmod rewrite
 RUN service apache2 restart
 
+
+RUN apt-get install -y libicu-dev \
+&& docker-php-ext-configure intl \
+&& docker-php-ext-install intl
 # Copy your files to working directory /var/www/html
 # ADD ./ /var/www/html
 # RUN chmod -R 0755 /var/www/html

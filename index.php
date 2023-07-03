@@ -24,7 +24,9 @@ $now = new DateTime();
 	<link href='https://fonts.googleapis.com/css?family=Bowlby+One+SC|Oxygen:400,300|Courgette' rel='stylesheet' type='text/css'>
 	<link type="text/css" rel="stylesheet" href="/css/global.css" />
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	<script type="text/javascript">var timeout = <?php echo $countdown->timeout ?>;</script>
+<?php if($countdown->timeout){ ?>
+    <script type="text/javascript">var timeout = <?php echo $countdown->timeout ?>;</script>
+<?php } ?>
 	<script type="text/javascript" src="/js/global.js"></script>
 	<script>
 		window.currentweek = <?php echo $countdown->currentweek ?>;
@@ -44,7 +46,7 @@ $now = new DateTime();
 		<a href="./calendar.php">Calendar View</a>
 	</div>
 	<div id="logo">
-		<img src="/images/logo_<?php get_race_name_safe() ?>.png" /><br>
+<!--		<img src="/images/logo_--><?php //get_race_name_safe() ?><!--.png" /><br>-->
 	</div>
 
 	<div id="clock">

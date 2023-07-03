@@ -48,6 +48,9 @@ function get_race_name_safe($echo = true){
 }
 
 function get_race_datetime($echo = true){
+    if(array_key_exists('raceday', $_GET)){
+        return $_GET['raceday'];
+    }
     return get_data_item('race_datetime', null, 'global', $echo);
 }
 

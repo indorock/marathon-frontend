@@ -45,7 +45,12 @@ class Countdown {
         $this->alldaynodes = $this->xpath_program->get_nodelist('//program/schedule/week/day');
         $this->infonodes = $this->xpath_program->get_nodelist('//program/info/item');
         $this->total_training_weeks = $this->weeknodes->length;
-        $this->raceday = new DateTime(get_race_datetime(false));
+
+
+        $formatter = new IntlDateFormatter("it_IT", IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
+        $unixtime=$formatter->parse(get_race_datetime(false));
+        $this->raceday = new DateTime();
+        $this->raceday->setTimestamp($unixtime);
         $this->now = new DateTime();
         $this->weeks = 0;
         $tminus = 'T-Minus ';

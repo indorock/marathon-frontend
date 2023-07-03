@@ -9,12 +9,10 @@ var Page = {
 
 	initTrainingSelect: function(){
 		$('#trainingplan-select').bind('change', function(){
-			var baseref = window.location.href.substr(window.location.href.lastIndexOf('/'));
-			if(baseref.indexOf('?') !== -1){
-				baseref = baseref.substr(0, baseref.indexOf('?'));
-			}
-
-			window.location.href = baseref + '?trainingplan='+this.value;
+			const baseref = window.location.origin;
+			const urlParams = new URLSearchParams(window.location.search);
+			urlParams.set('trainingplan', this.value);
+			window.location.href = baseref + '/?' + urlParams.toString();
 		})
 	}
 }
