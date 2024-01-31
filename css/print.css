@@ -25,11 +25,25 @@ body.calendar #calendar-container table th{
 }
 
 body.calendar #calendar-container table td{
-    padding-left:2px;
+    padding-left:10px;
     padding-bottom:1px;
     overflow: hidden;
 }
 
 body.calendar table td.td-restday{
     width:5%;
+}
+
+#calendar-container table td.td-dates{
+	font-size:1.4vw ! important;
+}
+
+#calendar-container table#training-calendar-runyourbq-16 td.trainingday{
+	font-size:1.5vw;
+	line-height: 1.7vw;
+}
+
+#calendar-container table td.td-week,
+#calendar-container table td.td-total{
+	font-size:1.8vw ! important;
 }
