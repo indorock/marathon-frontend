@@ -333,7 +333,7 @@ body.calendar #logo img{
 }
 
 #calendar-container table td.td-total{
-	font-size:1vw;
+	font-size:1.5vw;
 }
 
 #calendar-container table td ul{
@@ -348,6 +348,6 @@ body.calendar #logo img{
 	font-size:0.8vw;
 }
 #calendar-container table#training-calendar-runyourbq-16 td.trainingday{
-	font-size:0.79vw;
+	font-size:1vw;
 }
 
