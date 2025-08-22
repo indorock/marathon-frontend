@@ -15,6 +15,8 @@ class Countdown {
     public $alldaynodes = [];
     public $schedule_rootnode = null;
     public $weekstarts = 'mon';
+    private $weeks = 0;
+    private $daynodes = null;
     public $xpath_program = null;
     public $xpath_sitedata = null;
     public $now = null;
@@ -42,11 +44,11 @@ class Countdown {
         $this->schedule_rootnode = $this->xpath_program->get_node('//program/schedule');
         $this->weeknodes = $this->xpath_program->get_nodelist('//program/schedule/week');
         $this->alldaynodes = $this->xpath_program->get_nodelist('//program/schedule/week/day');
-        $this->infonodes = $this->xpath_program->get_nodelist('//program/info/item');
         $this->total_training_weeks = $this->weeknodes->length;
 
 
-        $formatter = new IntlDateFormatter("it_IT", IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
+        $formatter = new IntlDateFormatter("en_US", IntlDateFormatter::NONE, IntlDateFormatter::NONE);
+        $formatter->setPattern("yyyy-MM-dd HH:mm:ss");
         $unixtime = $formatter->parse(get_race_datetime(false));
         $this->raceday = new DateTime();
         $this->raceday->setTimestamp($unixtime);

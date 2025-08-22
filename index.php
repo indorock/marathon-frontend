@@ -46,7 +46,7 @@ $now = new DateTime();
 		<a href="./calendar.php">Calendar View</a>
 	</div>
 	<div id="logo">
-<!--		<img src="/images/logo_--><?php //get_race_name_safe() ?><!--.png" /><br>-->
+		<img src="/images/logo_<?php get_race_name_safe() ?>.png" /><br>
 	</div>
 
 	<div id="clock">
